@@ -19,5 +19,7 @@
     <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whitee">
 </div>
 
+[![NyanCat](https://i.imgur.com/WXpjbVd.gif)](https://www.instagram.com/tioben_gh/)
+[![NyanCat](https://i.imgur.com/WXpjbVd.gif)](https://www.instagram.com/tioben_gh/)
 
 
