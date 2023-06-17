@@ -20,7 +20,7 @@
 </div>
 <p align="center">
   <a href="https://www.instagram.com/tioben_gh/">
-    <img src="https://i.imgur.com/WXpjbVd.gif" alt="NyanCat">
+    <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="CuteCat">
   </a>
 </p>
 
