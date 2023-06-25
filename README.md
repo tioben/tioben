@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioben&hide_progress=true" alt="Tio Ben - Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioben&demo=true" alt="Tio Ben - Top Langs">
 </p>
 
 
